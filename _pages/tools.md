@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tools
+title: Tools
 permalink: /tools/
 description: A growing collection of my cool toolds.
 ---
