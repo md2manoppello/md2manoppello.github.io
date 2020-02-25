@@ -8,7 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Edificio Alan Turing  R2??</p>
+    <p>Edificio Alan Turing </p>
+    <p>Office R2XX</p>
     <p>Via Vetoio 67100</p>
     <p>L'Aquila, Italy</p>
 
