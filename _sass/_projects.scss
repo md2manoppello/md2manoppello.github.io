@@ -5,7 +5,13 @@
     padding: 10px;
     vertical-align: middle;
     width: 33.33%;
-
+    .mythumbnail {
+        img {
+            height: auto;
+            position: relative;
+            width: 220px;
+        }
+    }
     .thumbnail {
         overflow: hidden;
         height: 200px;

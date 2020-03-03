@@ -38,6 +38,21 @@ and I am involved in various committees of popular conferences in the field:
 * [SAC](https://www.sigapp.org/sac/sac2017/)
 
 
+### Selected publications:
+
+* Automated Classification of Metamodel Repositories: A Machine Learning Approach Nguyen, P. T., Di Rocco, J., Di Ruscio, D., Pierantonio, A., and Iovino, L. In 2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems (MODELS) 2019
+* Focus: A recommender system for mining api function calls and usage patterns
+Nguyen, Phuong T, Di Rocco, Juri, Di Ruscio, Davide, Ochoa, Lina, Degueule, Thomas, and Di Penta, Massimiliano 
+* Automated Reuse of Model Transformations through Typing Requirements Models
+Lara, Juan De, Guerra, Esther, Ruscio, Davide Di, Di Rocco, Juri, Cuadrado, Jesús S´nchez, Iovino, Ludovico, and Pierantonio, Alfonso
+ACM Trans. Softw. Eng. Methodol. 2019
+
+ 
+
+
+
+
+
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

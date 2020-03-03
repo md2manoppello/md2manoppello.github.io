@@ -392,6 +392,7 @@ footer a:hover { color: #B509AC; }
 .post-link { display: block; font-size: 42px; }
 
 .project { box-sizing: border-box; float: left; height: 250px; padding: 10px; vertical-align: middle; width: 33.33%; }
+.project .mythumbnail img { height: auto; position: relative; width: 220px; }
 .project .thumbnail { overflow: hidden; height: 200px; width: 100%; }
 .project .thumbnail img { height: auto; position: relative; left: -25%; top: -5%; width: 500px; }
 .project .thumbnail a { float: left; height: 230px; position: relative; width: 100%; }

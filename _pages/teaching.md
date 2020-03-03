@@ -4,7 +4,25 @@ permalink: /teaching/
 title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 ---
+## Courses
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+| Year      | Role               | Course                   |
+|-----------|--------------------|--------------------------|
+| 2016/2017 | Assistant lecturer | Model-Driven Engineering |
+| 2017/2018 | Assistant lecturer | Model-Driven Engineering |
+| 2018/2019 | Assistant lecturer | Model-Driven Engineering |
+| 2019/2020 | Assistant lecturer | Model-Driven Engineering |
 
-Organize your courses by years, topics, or universities, however you like!
+## Master thesis
+
+| Year      | Student            | Thesis title                  |
+|-----------|--------------------|--------------------------|
+| 2018/2019 | Carlos Avendaño Arango | A Model-Driven Approach To Microservices Architecture |
+
+
+## Bachelor students
+
+| Year      | Student            | Thesis title                  |
+|-----------|--------------------|--------------------------|
+| 2018/2019 | Andrea Serafini | PRETTEF: Un Modello della Qualità per l’Analisi Multi-Criteriale di Frameworks di Sviluppo Web|
+| 2013/2014 | Mario Cardarelli | TBD|
