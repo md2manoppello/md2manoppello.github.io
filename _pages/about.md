@@ -17,7 +17,7 @@ news: true
 social: true
 ---
 I am currently a postdoctoral researcher at  the  [Department  of  Information  Engineering  Computer Science  and  Mathematics](http://www.disim.univaq.it)  of  the  [University  of  L'Aquila](http://www.univaq.it/). Previously, I obtained a PhD degree from tthe  <a href="http://www.univaq.it/" target="_blank">University  of  L'Aquila</a> in the MDEGropup research team with [Alfonso Pierantonio](http://pieranton.io) and [Davide Di Ruscio](www.di.univaq.it/diruscio). I am interested in all aspects of software language engineering. My main  research  interests  are    related  to several  aspects  of  Model  Driven  Engineering  (MDE)  including  **domain specific  modelling  languages**, 
-**model transformation**, **model differencing**, **modelling repositories** and **mining techniques**. 
+**model transformation**, **model differencing**, **modelling repositories** and **mining software repositories and communities**. 
 
 I am reviewer of the following international journals:
 
@@ -46,6 +46,7 @@ Nguyen, Phuong T, Di Rocco, Juri, Di Ruscio, Davide, Ochoa, Lina, Degueule, Thom
 * Automated Reuse of Model Transformations through Typing Requirements Models
 Lara, Juan De, Guerra, Esther, Ruscio, Davide Di, Di Rocco, Juri, Cuadrado, Jesús S´nchez, Iovino, Ludovico, and Pierantonio, Alfonso
 ACM Trans. Softw. Eng. Methodol. 2019
+* Automated Clustering of Metamodel Repositories Basciani, Francesco, Di Rocco, Juri, Di Ruscio, Davide, Iovino, Ludovico, and Pierantonio, Alfonso In International Conference on Advanced Information Systems Engineering 2016
 
  
 

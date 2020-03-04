@@ -3,6 +3,7 @@ layout: page
 title: Tools
 permalink: /tools/
 description: A growing collection of my cool toolds.
+public: false
 ---
 
 {% for project in site.tools %}

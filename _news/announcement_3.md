@@ -5,4 +5,4 @@ inline: true
 public: true
 ---
 
-<a href="http://mosc.gssi.it/">MoSC</a>
+<a href="http://mosc.gssi.it/">MoSC</a> at <a href= "https://staf2020.hvl.no/">STAF20</a>
