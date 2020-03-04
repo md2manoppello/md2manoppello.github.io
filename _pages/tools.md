@@ -2,7 +2,7 @@
 layout: page
 title: Tools
 permalink: /tools/
-description: A growing collection of my cool toolds.
+description: A growing collection of my cool tools.
 public: false
 ---
 
