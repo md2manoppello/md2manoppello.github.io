@@ -465,7 +465,7 @@ keywords = {model transformation reuse, ATL, refinement, Model transformation, m
 }
 @article{article,
 author = {Nguyen, Phuong and Di Rocco, Juri and Di Ruscio, Davide and Di Penta, Massimiliano},
-year = {2019},
+year = {2020},
 month = {11},
 pages = {110460},
 title = {CrossRec: Supporting Software Developers by Recommending Third-party Libraries},
@@ -485,4 +485,87 @@ doi = {10.1016/j.jss.2019.110460}
 	author = {Nguyen, Phuong T. and Di Rocco, Juri and Rubei, Riccardo and Di Ruscio, Davide},
 	month = feb,
 	year = {2020}
+}
+
+@article{CAPILUPPI2020106279,
+title = "Detecting Java software similarities by using different clustering techniques",
+journal = "Information and Software Technology",
+volume = "122",
+pages = "106279",
+year = "2020",
+issn = "0950-5849",
+doi = "https://doi.org/10.1016/j.infsof.2020.106279",
+url = "http://www.sciencedirect.com/science/article/pii/S095058492030029X",
+author = "Capiluppi, Andrea and Di Ruscio, Davide  and Di Rocco, Juri and Nguyen, Phuong T. and Ajienka, Nemitari ",
+keywords = "FOSS (Free and open-source software), Application Domains, Latent Dirichlet Allocation, Machine Learning, Expert Opinions, OO (object-oriented)",
+abstract = "Background
+Research on empirical software engineering has increasingly been conducted by analysing and measuring vast amounts of software systems. Hundreds, thousands and even millions of systems have been (and are) considered by researchers, and often within the same study, in order to test theories, demonstrate approaches or run prediction models. A much less investigated aspect is whether the collected metrics might be context-specific, or whether systems should be better analysed in clusters.
+Objective
+The objectives of this study are (i) to define a set of clustering techniques that might be used to group similar software systems, and (ii) to evaluate whether a suite of well-known object-oriented metrics is context-specific, and its values differ along the defined clusters.
+Method
+We group software systems based on three different clustering techniques, and we collect the values of the metrics suite in each cluster. We then test whether clusters are statistically different between each other, using the Kolgomorov-Smirnov (KS) hypothesis testing.
+Results
+Our results show that, for two of the used techniques, the KS null hypothesis (e.g., the clusters come from the same population) is rejected for most of the metrics chosen: the clusters that we extracted, based on application domains, show statistically different structural properties.
+Conclusions
+The implications for researchers can be profound: metrics and their interpretation might be more sensitive to context than acknowledged so far, and application domains represent a promising filter to cluster similar systems."
+}
+
+@article{di2020understanding,
+  title={Understanding MDE projects: megamodels to the rescue for architecture recovery},
+  author={Di Rocco, Juri and Di Ruscio, Davide and H{\"a}rtel, Johannes and Iovino, Ludovico and L{\"a}mmel, Ralf and Pierantonio, Alfonso},
+  journal={Software and Systems Modeling},
+  volume={19},
+  number={2},
+  pages={401--423},
+  year={2020},
+  publisher={Springer}
+}
+
+@inproceedings{10.1145/3382494.3410690,
+author = {Di Rocco, Juri and Di Ruscio, Davide and Di Sipio, Claudio and Nguyen, Phuong and Rubei, Riccardo},
+title = {TopFilter: An Approach to Recommend Relevant GitHub Topics},
+year = {2020},
+isbn = {9781450375801},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3382494.3410690},
+doi = {10.1145/3382494.3410690},
+abstract = {Background: In the context of software development, GitHub has been at the forefront of platforms to store, analyze and maintain a large number of software repositories. Topics have been introduced by GitHub as an effective method to annotate stored repositories. However, labeling GitHub repositories should be carefully conducted to avoid adverse effects on project popularity and reachability. Aims: We present TopFilter, a novel approach to assist open source software developers in selecting suitable topics for GitHub repositories being created. Method: We built a project-topic matrix and applied a syntactic-based similarity function to recommend missing topics by representing repositories and related topics in a graph. The ten-fold cross-validation methodology has been used to assess the performance of TopFilter by considering different metrics, i.e., success rate, precision, recall, and catalog coverage. Result: The results show that TopFilter recommends good topics depending on different factors, i.e., collaborative filtering settings, considered datasets, and pre-processing activities. Moreover, TopFilter can be combined with a state-of-the-art topic recommender system (i.e., MNB network) to improve the overall prediction performance. Conclusion: Our results confirm that collaborative filtering techniques can successfully be used to provide relevant topics for GitHub repositories. Moreover, TopFilter can gain a significant boost in prediction performances by employing the outcomes obtained by the MNB network as its initial set of topics.},
+booktitle = {Proceedings of the 14th ACM / IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)},
+articleno = {21},
+numpages = {11},
+keywords = {Collaborative filtering, Recommender systems, GitHub topics recommendation},
+location = {Bari, Italy},
+series = {ESEM '20}
+}
+
+@inproceedings{10.1145/3417990.3421999,
+author = {Basciani, Francesco and Di Rocco, Juri and Di Ruscio, Davide and Pierantonio, Alfonso and Iovino, Ludovico},
+title = {TyphonML: A Modeling Environment to Develop Hybrid Polystores},
+year = {2020},
+isbn = {9781450381352},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3417990.3421999},
+doi = {10.1145/3417990.3421999},
+abstract = {Designing and deploying a hybrid data persistence architecture that involves a combination of relational and NoSQL databases is a complex, technically challenging, and error-prone task. In this tool paper, we propose TyphonML, a modeling language and supporting environment, which permits modelers to specify data that need to be persisted in hybrid architectures, by abstracting over the specificities of the underlying technologies. The language enables the specification of both conceptual entities and available data layer technologies, and then how the modeled entities have to be mapped to the available database systems. TyphonML models are used to generate microservice-based infrastructures, which permit users to interact with the designed hybrid polystores at the conceptual level. In this tool paper, we show the different components of the TyphonML environment at work through a demonstration scenario.},
+booktitle = {Proceedings of the 23rd ACM/IEEE International Conference on Model Driven Engineering Languages and Systems: Companion Proceedings},
+articleno = {2},
+numpages = {5},
+keywords = {database technologies, tools, data modelling, hybrid polystore},
+location = {Virtual Event, Canada},
+series = {MODELS '20}
+}
+
+@article{NGUYEN2021110860,
+title = {Convolutional neural networks for enhanced classification mechanisms of metamodels},
+journal = {Journal of Systems and Software},
+volume = {172},
+pages = {110860},
+year = {2021},
+issn = {0164-1212},
+doi = {https://doi.org/10.1016/j.jss.2020.110860},
+url = {https://www.sciencedirect.com/science/article/pii/S0164121220302508},
+author = {Phuong T. Nguyen and Davide {Di Ruscio} and Alfonso Pierantonio and Juri {Di Rocco} and Ludovico Iovino},
+abstract = {Conventional wisdom on Model-Driven Engineering suggests that metamodels are crucial elements for modeling environments consisting of graphical editors, transformations, code generators, and analysis tools. Software repositories are commonly used in practice for locating existing artifacts provided that a classification procedure is available. However, the manual classification of metamodel in repositories produces results that are influenced by the subjectivity of human perception besides being tedious and prone to errors. Therefore, automated techniques for classifying metamodels stored in repositories are highly desirable and stringent. In this work, we propose memoCNN as a novel approach to classification of metamodels. In particular, we consider metamodels as data points and classify them using supervised learning techniques. A convolutional neural network has been built to learn from labeled data, and use the trained weights to group unlabeled metamodels. A comprehensive experimental evaluation proves that the proposal effectively categorizes input data and outperforms a state-of-the-art baseline.}
 }

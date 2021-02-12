@@ -40,7 +40,7 @@ and I am involved in various committees of popular conferences in the field:
 
 ### Selected publications:
 
-* Automated Classification of Metamodel Repositories: A Machine Learning Approach Nguyen, P. T., Di Rocco, J., Di Ruscio, D., Pierantonio, A., and Iovino, L. In 2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems (MODELS) 2019
+* Automated Classification of Metamodel Repositories: A Machine Learning Approach Nguyen, P. T., Di Rocco, J., Di Ruscio, D., Pierantonio, A., and Iovino, L. In 2019 ACM/IEEE 22nd International Conference on Model Driven Engineering Languages and Systems (MODELS) 2019 - **Best papers of MODELS'19**
 * Focus: A recommender system for mining api function calls and usage patterns
 Nguyen, Phuong T, Di Rocco, Juri, Di Ruscio, Davide, Ochoa, Lina, Degueule, Thomas, and Di Penta, Massimiliano 
 * Automated Reuse of Model Transformations through Typing Requirements Models

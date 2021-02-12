@@ -24,5 +24,6 @@ description:
 
 | Year      | Student            | Thesis title                  |
 |-----------|--------------------|--------------------------|
+| 2019/2020 | Marco Ovidi | Generazione di ambienti di metamodellazione mediante le estensioni di AutoCAD |
 | 2018/2019 | Andrea Serafini | PRETTEF: Un Modello della Qualità per l’Analisi Multi-Criteriale di Frameworks di Sviluppo Web|
 | 2013/2014 | Mario Cardarelli | Progettazione e realizzazione di un generatore di API REST per beContent|

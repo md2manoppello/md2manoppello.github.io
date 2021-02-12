@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "url:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-url:  https://md2manoppello.github.io # the base hostname & protocol for your site
+url:  https://jdirocco.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
@@ -23,7 +23,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: md2manoppello # your GitHub user name
+github_username: jdirocco # your GitHub user name
 twitter_username: juridirocco # your Twitter handle
 linkedin_username: juri-di-rocco-7981721a0 # your LinkedIn user name
 scholar_userid: PNagLbIAAAAJ # your Google Scholar ID
