@@ -50,7 +50,9 @@ ACM Trans. Softw. Eng. Methodol. 2019
 
  
 
-
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/juridirocco maxwidth=500 limit=5 %}
+</div>
 
 
 
